@@ -1,0 +1,2 @@
+export JNI_ROOT="$PWD"
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib:/$JNI_ROOT/so_dir"
